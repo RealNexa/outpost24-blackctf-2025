@@ -6,4 +6,4 @@ Challenge author: Mikael Lindström
 Challenge type: API
 
 ## Solution
-Using the script `explorer.py`, the ID of correct was located. Flag: **flag O24{Lar4_w0Uld_b3_PRouD!}**
+Using the script `explorer.py`, the ID of the correct tomb was located. Flag: **flag O24{Lar4_w0Uld_b3_PRouD!}**

@@ -1,7 +1,7 @@
 # Solutions to the outpost24 blackpyramid CTF 2025. 
 
 ## Solutions
-* [Ancient Tomb Rxplorer](https://github.com/RealNexa/outpost24-blackctf-2025/tree/main/Solutions/ancient_tomb_explorer)
+* [Ancient Tomb Explorer](https://github.com/RealNexa/outpost24-blackctf-2025/tree/main/Solutions/ancient_tomb_explorer)
 * [Pharaohs Dashboard](https://github.com/RealNexa/outpost24-blackctf-2025/tree/main/Solutions/pharaohs_dashboard)
 * [The Canopic Jars of Osiris](https://github.com/RealNexa/outpost24-blackctf-2025/tree/main/Solutions/the_canopic_jars_of_osiris)
 * [The Forgotten Temple](https://github.com/RealNexa/outpost24-blackctf-2025/tree/main/Solutions/the_forgotten_temple)
