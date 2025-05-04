@@ -1,0 +1,1 @@
+ffuf -w ids -u http://134.122.88.8:5002/api/tomb/FUZZ\?token=key-174371711 -fr "is empty"
